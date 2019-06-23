@@ -1,4 +1,5 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/fmpwizard/go-quilljs-delta)](https://goreportcard.com/report/github.com/fmpwizard/go-quilljs-delta)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffmpwizard%2Fgo-quilljs-delta.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffmpwizard%2Fgo-quilljs-delta?ref=badge_shield)
 
 # go-quilljs-delta
 
@@ -18,3 +19,6 @@ use at work.
 ### Why not using nodejs?
 
 Pretty sure this will run faster with concurrent users.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffmpwizard%2Fgo-quilljs-delta.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffmpwizard%2Fgo-quilljs-delta?ref=badge_large)
